@@ -1,0 +1,14 @@
+node_modules
+dist
+.idea
+.vscode
+npm-debug.log
+.tmp
+.DS_Store
+yarn-error.log
+temp
+public
+.log
+docs
+.nyc_output
+cassetes
